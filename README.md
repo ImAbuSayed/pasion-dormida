@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-dormida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión dormida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-dormida/) |
+| **Get License** | [Official Music Licensing for Pasión dormida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-dormida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Despierta la pasión dormida, mami, ven aquí
+> Tú sabes que esta noche entera está hecha pa' ti
+> Bajo la luna en Barcelona, vamos a fluir
+> Ese fuego en tu mirada me hace revivir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
