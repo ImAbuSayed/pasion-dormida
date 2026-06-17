@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-dormida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pasión dormida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-dormida/) |
+| **Get License** | [Obtain a Music License for Pasión dormida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-dormida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aba32069c1a0601a7ffe8f8888280122ad8e0db45e0b65be62d9204ec345d57b` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

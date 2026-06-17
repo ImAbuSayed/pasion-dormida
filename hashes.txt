@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión dormida
+
+This log tracks the cryptographic history and versioning for the song **Pasión dormida** (pasion-dormida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:36:10.590235 | `v1` | `aba32069c1a0601a7ffe8f8888280122ad8e0db45e0b65be62d9204ec345d57b` | `a5c4b668fa36ef104a6a63b2994cec699a4033afd2f97d1897f04638e134f506` | `2026-06-17_pasion-dormida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
